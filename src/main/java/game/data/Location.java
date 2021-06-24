@@ -4,7 +4,7 @@ public class Location {
 
     private int row;
     private int column;
-// comment
+
     private Location(int row, int column) {
         this.row = row;
         this.column = column;
