@@ -22,6 +22,7 @@ public class TicTacToeRenderer {
 
         builder.append(ln).append(ln);
         System.out.println(builder.toString());
+
     }
 
     public void displayWinner(Player player) {
